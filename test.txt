@@ -1,0 +1,5 @@
+huy;hue;1000
+Bao;danang;1100
+Tuan;haiphong;800
+Khanh;quangnam;1400
+Tan;dongnai;1200
